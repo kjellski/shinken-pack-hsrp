@@ -1,0 +1,6 @@
+{
+"name":"hsrp",
+"description":"Standard hsrp checks for hsrp-state, hsrp-failover, list-hsrp-groups. Checks are done by check_nwc_health.",
+"path":"network/",
+"macros":{
+}
